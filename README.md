@@ -1,10 +1,10 @@
 # ai4happiness
 
 ## Overview
-Happiness is the ultimate goal of life. In an era of rapidly advancing technology, it is crucial that we align these innovations with the purpose of enhancing human well-being and the health of our planet. **ai4happiness** is a project dedicated to encouraging individuals and organizations to prioritize happiness as a core objective of AI development. We aim to create tools and resources that improve people's lives and contribute positively to the world around us.
+Happiness is the ultimate goal of life. In an era of rapidly advancing technology, it is crucial that we align these innovations with the purpose of enhancing human well-being and the health of our planet. ai4happiness is a project dedicated to encouraging individuals and organizations to prioritize happiness as a core objective of AI development. We aim to create tools and resources that improve people's lives and contribute positively to the world around us.
 
 ## Project Description
-**ai4happiness** aims to establish a manifesto for "AI for Happiness" through a dedicated website. This platform will feature insightful texts and, more importantly, a comprehensive dashboard that provides data on happiness about AI advancements. By analyzing and presenting this data, we seek to inspire action and dialogue about the ethical implications of AI and its role in promoting well-being.
+ai4happiness aims to establish a manifesto for "AI for Happiness" through a dedicated website. This platform will feature insightful texts and, more importantly, a comprehensive dashboard that provides data on happiness about AI advancements. By analyzing and presenting this data, we seek to inspire action and dialogue about the ethical implications of AI and its role in promoting well-being.
 
 ### Goals:
 - Encourage the integration of happiness as a core objective in AI design and implementation.
@@ -15,7 +15,6 @@ Happiness is the ultimate goal of life. In an era of rapidly advancing technolog
 To set up the project locally, follow these steps:
 
 # Clone the repository:
-   ```bash
    git clone https://github.com/alessephd/ai4happiness.git
 
 # Navigate to the project directory:
@@ -41,20 +40,20 @@ We welcome contributions to the ai4happiness project! Here’s how you can help:
 Create a new branch for your feature or bug fix:
 git checkout -b feature-name
 
-Make your changes and commit them:
+# Make your changes and commit them:
 git commit -m "Add a new feature"
 
-Push to the branch:
+# Push to the branch:
 git push origin feature-name
 
-Submit a pull request detailing your changes.
+# Submit a pull request detailing your changes.
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Contact
+# Contact
 For any inquiries or feedback, feel free to reach out to me at alesse@gmail.com.
 
-Thank you for supporting AI4happiness!
+# Thank you for supporting AI4happiness!
 Together, we can make AI a powerful ally in the pursuit of happiness for individuals and our planet.
 
 ### Instructions for Adding the README
