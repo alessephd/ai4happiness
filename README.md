@@ -14,49 +14,49 @@ ai4happiness aims to establish a manifesto for "AI for Happiness" through a dedi
 ## Installation Instructions
 To set up the project locally, follow these steps:
 
-### Clone the repository:
+## Clone the repository:
    git clone https://github.com/alessephd/ai4happiness.git
 
-### Navigate to the project directory:
+## Navigate to the project directory:
    cd ai4happiness
    
-### Example for Python projects
+## Example for Python projects
 pip install -r requirements.txt
 
-### Example for running a web server
+## Example for running a web server
 python app.py
 
-### Usage
+## Usage
 Once the project is set up, you can access the dashboard and explore data on happiness and AI. Use the navigation features to view different sections of the site and interact with the data visualizations.
 
-### Example:
+## Example:
 Dashboard: View real-time data visualizations that showcase the relationship between AI applications and happiness metrics.
 Manifesto: Read articles and essays on the importance of aligning AI with human values and well-being.
 
-### Contributing
+## Contributing
 We welcome contributions to the ai4happiness project! Here’s how you can help:
 
-### Fork the repository.
+## Fork the repository.
 Create a new branch for your feature or bug fix:
 git checkout -b feature-name
 
-### Make your changes and commit them:
+## Make your changes and commit them:
 git commit -m "Add a new feature"
 
-### Push to the branch:
+## Push to the branch:
 git push origin feature-name
 
-### Submit a pull request detailing your changes.
+## Submit a pull request detailing your changes.
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-### Contact
+## Contact
 For any inquiries or feedback, feel free to reach out to me at alesse@gmail.com.
 
-### Thank you for supporting AI4happiness!
+## Thank you for supporting AI4happiness!
 Together, we can make AI a powerful ally in the pursuit of happiness for individuals and our planet.
 
-### Instructions for Adding the README
+## Instructions for Adding the README
 1. In your GitHub repository, navigate to the **README.md** file.
 2. Click the pencil icon to edit the file.
 3. Replace the existing content with the above draft.
