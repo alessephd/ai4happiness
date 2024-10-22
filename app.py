@@ -2,7 +2,7 @@ from flask import Flask, render_template
 
 app = Flask(__name__)
 
-# Rota para a página inicial (manifesto)
+# Route for the homepage (manifesto)
 @app.route('/')
 def home():
     manifesto_text = """
@@ -20,7 +20,21 @@ def home():
     """
     return render_template('index.html', manifesto=manifesto_text)
 
-# Rota para o dashboard (pode ser expandido depois)
+@app.route('/statistics')
+def statistics():
+    stats_text = """
+    <ul>
+        <li><strong>Mental Health Apps:</strong> About 80% of users of mental health apps report feeling better after using them.</li>
+        <li><strong>AI Chatbots:</strong> 60% of users feel more comfortable discussing mental health issues with AI chatbots than with human therapists.</li>
+        <li><strong>User Satisfaction:</strong> 75% of people using AI-based recommendations for personal well-being reported increased happiness.</li>
+        <li><strong>Increased Productivity:</strong> AI tools improve productivity by 40%, leading to lower stress and increased life satisfaction.</li>
+        <li><strong>Global Reach:</strong> 50% of people worldwide believe technology will significantly improve their mental health in the next decade.</li>
+    </ul>
+    """
+    return render_template('statistics.html', statistics=stats_text)
+
+
+# Dashboard route (can be expanded later)
 @app.route('/dashboard')
 def dashboard():
     return "<h1>Dashboard for AI and Happiness Data</h1>"
